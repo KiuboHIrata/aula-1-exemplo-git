@@ -10,6 +10,12 @@ Este é o meu repositório no GitHub. Estou começando minha jornada no mundo da
 - 💡 Anotações e dicas
 - 🛠️ Experimentos com código
 
+## 🌱 Tecnologias que estou aprendendo:
+
+- HTML
+- CSS
+- JavaScript
+- Git e GitHub
 
 ## 🎯 Objetivo
 
